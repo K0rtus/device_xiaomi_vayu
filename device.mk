@@ -365,6 +365,10 @@ PRODUCT_PACKAGES += \
     libOmxVenc \
     libstagefrighthw
 
+# Network
+PRODUCT_PACKAGES += \
+    android.system.net.netd@1.1.vendor
+
 # Overlays
 PRODUCT_PACKAGES += \
    CarrierConfigOverlayVayu \
