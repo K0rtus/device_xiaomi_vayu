@@ -23,7 +23,7 @@
 
     <!-- Adaptive Charging -->
     <bool name="config_supportAdaptiveCharging">true</bool>
-  
+
     <!-- For Enabling Battery Heath -->
     <bool name="config_supportBatteryHealth">true</bool>
 
@@ -31,6 +31,12 @@
     <string name="config_batDesCap">/sys/class/power_supply/bms/charge_full_design</string>
     <string name="config_batCurCap">/sys/class/power_supply/bms/charge_full</string>
     <string name="config_batChargeCycle">/sys/class/power_supply/bms/cycle_count</string>
+
+    <!-- Whether this device is supporting the Microphone toggle -->
+    <bool name="config_supportsMicToggle">true</bool>
+
+    <!-- Whether this device is supporting the Camera toggle -->
+    <bool name="config_supportsCamToggle">true</bool>
 
     <!-- Device specific Doze Package -->
     <string name="config_customDozePackage">org.lineageos.settings/org.lineageos.settings.doze.DozeSettingsActivity</string>
