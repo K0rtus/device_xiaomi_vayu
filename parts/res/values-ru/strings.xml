@@ -43,9 +43,9 @@
     <string name="touch_resistant_summary">Уменьшает чувствительность сенсора по краям, чтобы избежать ложных нажатий</string>
 
     <!-- Dirac settings -->
-    <string name="dirac_enable">Включить dirac</string>
-    <string name="dirac_title">Улучшение звука Dirac</string>
-    <string name="dirac_summary">Оптимизация качества звука с помощью Dirac, Hi-Fi</string>
+    <string name="dirac_enable">Включить Dirac</string>
+    <string name="dirac_title">Dirac Sound Enhancer</string>
+    <string name="dirac_summary">Оптимизируйте качество звука с помощью Dirac, Hi-Fi</string>
     <string name="dirac_headset_title">Тип гарнитуры</string>
     <string name="dirac_hifi_enable_title">Включить Hi-fi</string>
     <string name="dirac_preset_title">Настройки звука</string>
